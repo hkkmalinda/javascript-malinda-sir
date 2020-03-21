@@ -1,4 +1,4 @@
-# adding javascript to a web page
+# 02 - adding javascript to a web page
 
 Youtube video url :
 
